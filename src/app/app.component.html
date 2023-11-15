@@ -1,3 +1,27 @@
-<section>
-  <h1>Nicolas projects coming soon</h1>
-</section>
+<main>
+  <section>
+    <img src="../assets/images/nicolas-photo.jfif" alt="image">
+    <p>Hello everyone! I'm a Computer Engineering student interested in the field of software development.</p>
+    <p>Passionate about providing technology-based solutions to underlying problems and everyday tasks in order to streamline processes, improve user experience, and facilitate accessibility and usability of web or mobile applications.</p>
+  </section>
+  <section >
+    <p class="tt">Welcome to my projects</p>
+    <div class="projects">
+      <app-project
+      *ngFor="let project of projects"
+      [imgListener]="project.img"
+      [descriptionListener]="project.description"
+      [linkListener]="project.link"
+      ></app-project>
+    </div>
+  </section>
+</main>
+<footer>
+  <ul>
+    <li><a href="/">By Nicolas Izquierdo</a></li>
+    <div>
+      <li class="li" ><a href="https://github.com/nicolasizb">Github</a></li>
+      <li class="li" ><a href="https://www.linkedin.com/in/nicolasizquierdobustos/">LinkedIn</a></li>
+    </div>
+  </ul>
+</footer>
