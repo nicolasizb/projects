@@ -10,17 +10,17 @@ export class AppComponent {
   projects = [
     {
       img: "../assets/images/logo-name-image.png",
-      description: "Es una plataforma especializada en la organización de eventos que simplifica la planificación y ejecución de experiencias locales en comunidad.",
+      description: "It is a platform specialized in organizing events that simplifies the planning and execution of local community experiences.",
       link: "https://event-hub-delta.vercel.app/"
     },
     {
       img: "../assets/images/logo-amp.png",
-      description: "Es un espacio en el cual puedes explorar la solución integral diseñada por una empresa líder con verticales de negocio en energías renovables, piscinas, obra civil y gestión de activos.",
+      description: "It is a space in which you can explore the comprehensive solution designed by a leading company with business verticals in renewable energy, swimming pools, civil works and asset management.",
       link: "https://website-amp.vercel.app/"
     },
     {
       img: "../assets/images/logo-triviapp.png",
-      description: "Un lugar de experiencia inmersiva y atractiva al aprendizaje. No solo proporciona entretenimiento, redefine la exploración y el intercambio de conocimientos.",
+      description: "A place of immersive and attractive learning experience. It not only provides entertainment, it redefines exploration and knowledge sharing.",
       link: "https://nicolasizb.github.io/TriviApp/"
     }
   ]
