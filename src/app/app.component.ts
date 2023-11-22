@@ -15,7 +15,7 @@ export class AppComponent {
     },
     {
       img: "../assets/images/logo-amp.png",
-      description: "It is a space in which you can explore the comprehensive solution designed by a leading company with business verticals in renewable energy, swimming pools, civil works and asset management.",
+      description: "Comprehensive solution designed by a leading company with business verticals in renewable energy, swimming pools and asset management.",
       link: "https://website-amp.vercel.app/"
     },
     {
