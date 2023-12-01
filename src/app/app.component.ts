@@ -17,11 +17,6 @@ export class AppComponent {
       img: "../assets/images/logo-amp.png",
       description: "Comprehensive solution designed by a leading company with business verticals in renewable energy, swimming pools and asset management.",
       link: "https://website-amp.vercel.app/"
-    },
-    {
-      img: "../assets/images/logo-triviapp.png",
-      description: "A place of immersive and attractive learning experience. It not only provides entertainment, it redefines exploration and knowledge sharing.",
-      link: "https://nicolasizb.github.io/TriviApp/"
     }
   ]
 
