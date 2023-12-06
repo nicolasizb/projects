@@ -17,6 +17,11 @@ export class AppComponent {
       img: "../assets/images/logo-amp.png",
       description: "Comprehensive solution designed by a leading company with business verticals in renewable energy, swimming pools and asset management.",
       link: "https://website-amp.vercel.app/"
+    },
+    {
+      img: "../assets/images/logo-amp.png",
+      description: "Comprehensive solution designed by a leading company with business verticals in renewable energy, swimming pools and asset management.",
+      link: "https://website-amp.vercel.app/"
     }
   ]
 
